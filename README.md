@@ -59,3 +59,6 @@ It has been improved in the following ways:
 - As a result of the above, adding new entries to the slideshow only requires a new entry in the database and no longer requires additional hardcoding
 
 The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Enhanced).
+
+## Github Repository
+[CS-499 ePortfolio](https://github.com/snhu-ejanow/CS499-ePortfolio)
