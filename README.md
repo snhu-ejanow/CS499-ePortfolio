@@ -34,11 +34,17 @@ The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-e
 ## Enhancement 2 - Algorithms & Data Structures
 The artifact used is an OpenGL C++ render of the Street-facing side of the US Federal Reserve Back in Downtown Chicago, created for CS 330. The goal is to display proficiency in OpenGL be creating a scene containing several different types of meshes, textures, materials, and lighting and objects comprised of multiple different types of meshes.
 
-The original C++ artifact files can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20OpenGL%20Render%20Original). The main files of focus are SceneManager.h and SceneManager.cpp
+The original C++ artifact files can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20OpenGL%20Render%20Original). The main files of focus are SceneManager.cpp and SceneManager.h
 
-This artifact was chosen because it provided the opportunity to display improvements in 
+This artifact was chosen because it provided the opportunity to display improvements in data management, algorithm usage, and the ability to write efficient and future-proofed code. The original artifact was compromised of a large amount of redundant and repeated lines of code, did not utilize algorithms to reduce repetition, and was space inefficient.
 
-The enhanced artifact can be found 
+It has been improved in the following ways:
+- The data for Lights, Materials, Textures, and Meshes has been moved into data structures of Nested vectors and object types
+- All initializations of Lights, Materials, Textures, and Meshes have been moved to algorithm functions to eliminate redundant initialization code
+- Data structures and algorithms designed and commented in such a way to allow anyone to add new features to the render by simply inserting a new data entry
+- The file size of SceneManager.cpp reduced by 57% from 77 KB to 33 KB due to the above
+
+The enhanced artifact's C++ files can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20OpenGL%20Render%20Enhanced). Again, the files to focus on are SceneManager.cpp and SceneManager.h
 
 ## Enhancement 3 - Databases
 The artifact used is the same Health Resort slideshow utilized for Enhancement 1.
