@@ -57,6 +57,7 @@ It has been improved in the following ways:
 - A new function has been implemented to import the MongoDB data to various dynamic vectors, which are then used to initialize the content for each card
 - The program dynamically handles slide initialization, accounting for a variable number of entries imported from MongoDB and adjusts content displayed automatically
 - As a result of the above, adding new entries to the slideshow only requires a new entry in the database and no longer requires additional hardcoding
+- By moving hardcoded data to an external database, it is no longer exposed to anyone with the Java executable
 
 The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Enhanced).
 
