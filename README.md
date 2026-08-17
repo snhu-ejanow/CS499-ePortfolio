@@ -3,8 +3,11 @@
 ## Overview
 This ePortfolio contains two artifacts which have been enhanced in three different ways, improving them in the categories of Software Design & Engineering, Algorithms & Data Structures, and Databases.
 
+## Self-Assessment
+Completing the coursework for CS 499 has given me a new appreciation for the process of reviewing and polishing my work. The process has included identifying and understanding mistakes and decisions made during the original development process, and has allowed me a deeper understanding of my strengths as a developer. Throughout the entire CS program, I have also been introduced to several other skills and abilities. I have developed the ability to design projects to follow AGILE and SCRUM methodology and write code in a way that allows team members and collaborators to understand the purpose of my software and effectively critique it. Through AGILE training, I have learned the best practices for gathering stakeholder priorities, turning them into actionable data points, and then communication development progress and expectations back to those project stakeholders. For efficient programming, I have learned how to implement algorithms and data structure processes to effectively handle large amounts of data in a way that is performance-light and bug-free. I have learned the methodology for designing comfortable, easy-to-use User-facing interfaces that provide information in a 
+
 ## Code Review
-The Code Review for the original forms of the artifacts can be found [here](https://snhu-my.sharepoint.com/:v:/g/personal/eryk_janowski_snhu_edu/IQDOVX5oBIGzTrq46sXnsFriAWPwK4PasaZnumwhErnyP6c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6CxOLb).
+The Code Review for the original artifacts can be found [here](https://snhu-my.sharepoint.com/:v:/g/personal/eryk_janowski_snhu_edu/IQDOVX5oBIGzTrq46sXnsFriAWPwK4PasaZnumwhErnyP6c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6CxOLb).
 
 ## Enhancement 1 - Software Design and Engineering
 The artifact used is a Health Resort slideshow made using Java Swing for CS 250, a class focusing on the AGILE methodology. The goal of this artifact was to display five health resort locations with short descriptions in a slide show format.
@@ -18,9 +21,20 @@ It has been improved in the following ways:
 - All elements are now dynamic and will no longer obscure each other when the window is resized
 - A sidebar with quick-navigation buttons allows users to jump to any point in the slideshow
 - "First" and "Last" buttons have been added to allow the user to skip to the beginning or end
+- All buttons have been moved to below the quick navigation bar
 - The text box will either be below or to the right of the image, whichever area has more space
 - The text box can be interacted with to reveal a longer description of each health resort
 
 The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Enhanced).
 
 ## Enhancement 2 - Algorithms & Data Structures
+The artifact used is an OpenGL C++ render of the Street-facing side of the US Federal Reserve Back in Downtown Chicago, created for CS 330. The goal is to display proficiency in OpenGL be creating a scene containing several different types of meshes, textures, materials, and lighting and objects comprised of multiple different types of meshes.
+
+The original C++ artifact files can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20OpenGL%20Render%20Original). The main files of focus are SceneManager.h and SceneManager.cpp
+
+This artifact was chosen because it provided the opportunity to display improvements in 
+
+The enhanced artifact can be found 
+
+## Enhancement 3 - Databases
+The artifact used is the same Health Resort slideshow utilized for Enhancement 1.
