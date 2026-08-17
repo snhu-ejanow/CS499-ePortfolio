@@ -26,7 +26,6 @@ It has been improved in the following ways:
 - All buttons have been moved to below the quick navigation bar
 - The text box will either be below or to the right of the image, whichever area has more space
 - The text box can be interacted with to reveal a longer description of each health resort
-- The code will now dynamically accept any number of slides and create a card for each entry
 - Code defining component functionality (such as buttons) has been moved outside of component initialization
 
 The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Enhanced).
@@ -47,4 +46,16 @@ It has been improved in the following ways:
 The enhanced artifact's C++ files can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20OpenGL%20Render%20Enhanced). Again, the files to focus on are SceneManager.cpp and SceneManager.h
 
 ## Enhancement 3 - Databases
-The artifact used is the same Health Resort slideshow utilized for Enhancement 1.
+The artifact used is the same Java Swing-based Health Resort slideshow utilized for Enhancement 1.
+
+The original artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Original).
+
+This artifact was chosen because it provided the opportunity to display improvements in data storage and management, streamlining of development processes, and accounting for data security. The original artifact hardcoded the data used for the content directly in the code, which unnecessarily bloats the size of the program file and exposes potentially sensitive data to anyone with access to the Java file.
+
+It has been improved in the following ways:
+- All slide content data has been moved to an external MongoDB database
+- A new function has been implemented to import the MongoDB data to various dynamic vectors, which are then used to initialize the content for each card
+- The program dynamically handles slide initialization, accounting for a variable number of entries imported from MongoDB and adjusts content displayed automatically
+- As a result of the above, adding new entries to the slideshow only requires a new entry in the database and no longer requires additional hardcoding
+
+The enhanced artifact can be found [here](https://github.com/snhu-ejanow/CS499-ePortfolio/tree/main/Janowski%20-%20Slide%20Show%20Enhanced).
