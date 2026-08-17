@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6a7931075925f1f4f1c9e97c"
+  },
+  "path": "/resources/Chiva-Som.jpg",
+  "sub": "<font size='7'>#1 Chiva-Som Health Resort</font><font size='5'><br>Nestled between seven tropical gardens, daily spa treatments and fitness classes help cleanse the body.</font>",
+  "subLong": "<font size='5'><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</font>",
+  "title": "Chiva-Som"
+},
+{
+  "_id": {
+    "$oid": "6a79426c5925f1f4f1c9e97d"
+  },
+  "path": "/resources/Integrated Wellness.jpg",
+  "sub": "<font size='7'>#2 V Integrated Wellness</font><font size='5'><br>On the island of Langkawi, private yoga and nature walks help detox the body.</font>",
+  "subLong": "<font size='5'><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</font>",
+  "title": "Integrated Wellness"
+},
+{
+  "_id": {
+    "$oid": "6a7942855925f1f4f1c9e97e"
+  },
+  "path": "/resources/Thanyapura.jpg",
+  "sub": "<font size='7'>#3 Thanyapura</font><font size='5'><br>A 23-hectare resort focused on using fitness to improve wellness and mindfullness.</font>",
+  "subLong": "<font size='5'><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</font>",
+  "title": "Thanyapura"
+},
+{
+  "_id": {
+    "$oid": "6a7942ac5925f1f4f1c9e97f"
+  },
+  "path": "/resources/The Farm.jpg",
+  "sub": "<font size='7'>#4 The Farm at San Benito</font><font size='5'><br>Yoga, fasting, and meditation to give guests a physical and mental cleanse.</font>",
+  "subLong": "<font size='5'><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</font>",
+  "title": "The Farm"
+},
+{
+  "_id": {
+    "$oid": "6a7942bf5925f1f4f1c9e980"
+  },
+  "path": "/resources/Kamalaya.jpg",
+  "sub": "<font size='7'>#5 Kamalaya</font><font size='5'><br>A calm and tranquil sancutary where guests can relax and detoxify.</font>",
+  "subLong": "<font size='5'><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</font>",
+  "title": "Kamalaya"
+}]
